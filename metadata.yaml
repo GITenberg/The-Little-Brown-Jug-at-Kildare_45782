@@ -1,0 +1,40 @@
+_repo: The-Little-Brown-Jug-at-Kildare_45782
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 45782-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Carolina -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Governors -- Fiction'
+- !lcsh 'South Carolina -- Fiction'
+title: The Little Brown Jug at Kildare
+url: http://www.gutenberg.org/ebooks/45782
