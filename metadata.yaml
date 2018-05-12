@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45782#The-Little-Brown-Jug-at-Kildare
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
